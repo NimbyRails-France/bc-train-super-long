@@ -1,0 +1,14 @@
+{
+    "id": "bc-train-super-long",
+    "name": "BC Train super long",
+    "modId": "bc-train-super-long",
+    "module": "bc-train-super-long-mod",
+    "version": "0.1.0",
+    "language": "kotlin-native",
+    "developmentStatus": "in-development",
+    "sdkMin": "0.9.0-alpha.3",
+    "sdkMaxExclusive": "0.10.0",
+    "gameSha256": [
+        "fff49ac21720abfc824c2b4f68b862727630eb0db71cfe1f9ea8f685d0db10ae"
+    ]
+}

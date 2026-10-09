@@ -1,0 +1,23 @@
+{
+  "fallback": "fr",
+  "languages": {
+    "fr": {
+      "mod.name": "BC Train super long",
+      "mod.description": "Composer des trains selon une longueur totale maximale configurable, avec 850 mètres par défaut.",
+      "options.maxLengthMeters": "Longueur maximale du train (m)",
+      "options.maxLengthMeters.help": "Longueur totale de la composition, locomotives comprises. Valeur par défaut : 850 m. Réduire cette valeur ne raccourcit pas les trains existants.",
+      "composition.lengthExceeded": "Impossible d’ajouter ce véhicule : la longueur maximale du train serait dépassée.",
+      "composition.lengthUnavailable": "Impossible d’ajouter ce véhicule : sa longueur est indisponible.",
+      "composition.verificationUnavailable": "Impossible de modifier ce train : sa composition ne peut pas être vérifiée."
+    },
+    "en": {
+      "mod.name": "BC Train super long",
+      "mod.description": "Build trains with a configurable maximum total length, set to 850 metres by default.",
+      "options.maxLengthMeters": "Maximum train length (m)",
+      "options.maxLengthMeters.help": "Total composition length, including locomotives. Default: 850 m. Lowering this value does not shorten existing trains.",
+      "composition.lengthExceeded": "Cannot add this vehicle: the maximum train length would be exceeded.",
+      "composition.lengthUnavailable": "Cannot add this vehicle: its length is unavailable.",
+      "composition.verificationUnavailable": "Cannot modify this train: its composition could not be verified."
+    }
+  }
+}
